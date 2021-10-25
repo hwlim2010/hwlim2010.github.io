@@ -104,7 +104,7 @@ analytics: # 블로그 접근 경로 확인 코드
 # Site Author / 사이드바 소개 부분
 author:
   name             : "꿈 양봉자🍯"
-  avatar           : "/assets/images/HyungWook.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "Today I grew up"
   location         : "Seoul"
   
