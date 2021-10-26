@@ -1,22 +1,22 @@
----
-title:  "내 피 땀 눈물이 들어간 블로그를 만들며"
-permalink: /about/
-layout: single
-published: true
-date: 2021-09-25
-categories:
-  - Blog
-tags:
-  - Blog
----
+### Hi I'm HyungWook Lim 👋 😎😎😎
+#### Studying Statistics & Data Science & Analysis   
 
+##### 📘 ️Edu 
 
-### 블로그를 만들며 
+`-` **Big Leader AI Academy _ KDATA & Kyungnam Univ (2021.07-08)  
+`-` Inha Univ, Statistics (2021-2023)  
+`-` Gangneung-Wonju National University, Industrial and Management Engineering (2016-2019)**  
 
-About란에는 나에 대한 것, 블로그에 대한 것을 작성하고자 한다. 
+##### 🏆 Project  
 
-내용은 차차 채워지겠지만 git에 올라갈 이 흔적속에 지금 내가 얼마나 고생해서 이 블로그를 만들었는지 기록하고 싶다. html, scss를 공부하지 않은채 다른 사람들이 만들어 놓은 웹 코드를 보며 이래저래 눈치밥으로 만들어 보고 있다. 벌써 만든다고 한지 ,, 어언 10일 정도가 지난것 같다. 
+| PERIOD | TITLE | SUBJECT |
+| ------- | ------- | -------|
+| **2021.08 - 2021.08** | **K-DATA & 경찰대학 협업 프로젝트** | **AI를 활용한 지역별 맞춤 치안지도 서비스** |
+| ------ | ------ | ------|
+| **2017.03 - 2019.03** | **Republic of Korea Air Force** | **Sergeant**
+| **2019.07 - 2019.07** | **International Workcamp Organization** | **Poland, Day care center for children**  
 
-내가 이렇게 고생한 만큼 내 기록물을 남에게 쉽게 주고 싶지는 않지만 ,,, 내가 받아왔듯 이름모를 개발자에게 얻은 이 지식이 다시 누군가에게 뿌려졌음 싶은 마음에 차곡차곡 기록과 깃 히스토리를 만들어간다. 
+##### 🧩 Skill  
 
-특히 나와 같은 비전공자 문과생들에게 ,, 내가 한줄기 빛이 될 수 있기를
+**Python / R**    
+
