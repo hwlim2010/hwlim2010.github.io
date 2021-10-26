@@ -30,6 +30,6 @@ tags:
 
 ##### 🧩 Skill  
 
-**Python / R**    
+**Python / R**
 
 
