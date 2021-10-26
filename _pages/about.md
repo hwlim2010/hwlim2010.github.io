@@ -15,9 +15,9 @@ tags:
 
 ##### 📘 ️Edu 
 
-`-` Big Leader AI Academy _ KDATA & Kyungnam Univ (2021.07-08)  
-`-` **Inha Univ, Statistics (2021-2023)**  
-`-` Gangneung-Wonju National University, Industrial and Management Engineering (2016-2019)   
+- Big Leader AI Academy _ KDATA & Kyungnam Univ (2021.07-08)  
+- **Inha Univ, Statistics (2021-)**  
+- Gangneung-Wonju National University, Industrial and Management Engineering (2016-2019)     
 
 ##### 🏃🏻‍♂️ Career  
 
